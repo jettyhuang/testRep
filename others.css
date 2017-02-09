@@ -1,0 +1,31 @@
+.commonWidth{width:1000px;margin-left:auto;margin-right:auto;}
+
+.logoBar{height:85px;background-color: #1d7ad9;}
+.logo{/*padding-left:41px;*/padding-top:13px;}
+
+.login_logo .commonWidth{width:460px;}
+
+.welcome_title{font:22px/85px "Microsoft YaHei","微软雅黑";color:#fff;float:left;padding-left: 24px;}
+.loginBox{width:458px;border:1px solid #cccccc;margin:10px auto;}
+.login_cont{padding:40px 76px;}
+.login_input{border:1px solid #cccccc;height:32px;line-height:32px\9;text-indent: 5px;width:100%;}
+.list_title{line-height:20px;color:#999999;}
+.user_icon{background:url(user_icon.png) no-repeat 270px;}
+.passwd_icon{background:url(passwd_icon.png) no-repeat 270px;}
+.mb_10{margin-bottom:10px;}
+.auto_safe{padding-top:17px;}
+.checked{position:relative;top:3px;margin-right:3px;}
+.auto_safe{margin-bottom:28px;}
+.login_btn{width:309px;height:36px;background: url(login_btn.jpg) left top no-repeat;color:#606060;font:16px/36px "Microsoft YaHei","微软雅黑"; letter-spacing:5px;}
+.login_partners{padding-top:34px;}
+.partners_list li{float:left;}
+.partners_list a{color:#666666;margin:0 2px;}
+.partners_list span{color:#dbdbdb;}
+
+.loginBox{position: relative;}
+.reg_btn{width:115px;height:31px;background: url(reg_btn.jpg) left top no-repeat;position: absolute;right:31px;}
+
+input.invalid{background-color: #ff9;border:2px red inset;}
+label.invalid{color:#f00;font-weight:bold;}
+
+
